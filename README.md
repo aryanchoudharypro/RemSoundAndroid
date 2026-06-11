@@ -1,6 +1,6 @@
 # RemSoundAndroid
 
-RemSoundAndroid is the official Android receiver client for [RemSound](https://github.com/Ednun/RemSound) - a high-performance, natively-encrypted UDP audio streaming program. It allows you to seamlessly receive and listen to low-latency audio from your desktop computer directly on your Android phone.
+RemSoundAndroid is the official Android receiver client for [RemSound](https://github.com/Ednunp/RemSound) - a high-performance, natively-encrypted UDP audio streaming program. It allows you to seamlessly receive and listen to low-latency audio from your desktop computer directly on your Android phone.
 
 This project was built from the ground up to provide a native, lightweight, and highly accessible audio receiver experience for Android users.
 
